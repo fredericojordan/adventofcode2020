@@ -1,5 +1,5 @@
 # Advent of Code 2020
 
-![stars](https://progress-bar.dev/6/?scale=50&title=stars&suffix=/50 "stars")
+![stars](https://progress-bar.dev/8/?scale=50&title=stars&suffix=/50 "stars")
 
 My solutions for [Advent of Code 2020](https://adventofcode.com/2020).
